@@ -1,0 +1,13 @@
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.btn{
+    list-style: none;
+
+}
+button{
+    padding: 1rem;
+    border-radius:1.50rem;
+}
