@@ -1,7 +1,8 @@
 header{
     display:flex;
     justify-content: space-between;
-    background-color: aqua;
+    background-color:maroon;
+    color: azure;
 }
 .btn{
     list-style: none;
@@ -10,4 +11,7 @@ header{
 button{
     padding: 1rem;
     border-radius:1.50rem;
+    background-color: aqua;
+    color:brown;
+
 }
